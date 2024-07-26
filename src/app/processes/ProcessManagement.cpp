@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cstring>
 #include <sys/wait.h>
-// #include "../encryptDecrypt/Cryption.hpp"
+#include "../encryptDecrypt/Cryption.hpp"
 
 ProcessMaganement::ProcessMaganement(){}
 
