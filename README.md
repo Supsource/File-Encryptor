@@ -2,6 +2,9 @@
 ### Overview
 Parallel File Encryptor is a C++ application that encrypts and decrypts files using parallel processing to improve performance. The tool utilizes multithreading to handle large files efficiently.
 
+![./FileEncryptor.png](https://raw.githubusercontent.com/Supsource/File-Encryptor/main/File%20Encryptor.png)
+
+
 ### Features
 - Parallel Encryption/Decryption: Leverages multithreading to speed up the process.
 - AES Encryption: Uses AES-256 encryption for secure file handling.
